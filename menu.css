@@ -1,0 +1,57 @@
+.backimg{
+    background-image:url("https://img.freepik.com/free-photo/top-view-circular-food-frame_23-2148723455.jpg?w=1060&t=st=166869159cl0~exp=1668692190~hmac=76aa7a27a2a3c2cd42e3632956fb17aa193dc84ca7cd4b78a19db2c895ab71e0");
+    height:147vh;
+    weight:120vw;
+    background-size: cover;
+}
+.layoutcard {
+    background-color:rgb(246, 180, 58);
+    font-family: 'Times New Roman';
+    font-weight:bold;
+    padding:10px;
+    margin:15px;
+    border-radius:50px;
+    border:solid blue 2px;
+
+    
+}
+.layoutcard:hover{
+    cursor: pointer;
+    background-color: rgb(242, 80, 80);
+}
+.bgimg{
+    height:150px;
+    width: 250px;
+    margin-right:10px; 
+    border:solid 4px;
+    padding:3px
+
+}
+.brandcont{
+    font-size:30px;
+    font-style: inherit;
+}
+.brandimg2{
+    height:150px;s
+    width: 250px;
+    margin-right:10px;
+    margin-left: 40px;
+    border:solid 4px;
+    padding:3px
+
+}
+.headname{
+    border-radius:50px 5px;
+    background-color:rgb(247, 89, 89);
+    padding:15px;
+    height:180px;
+    width:250px;
+    text-align: center;
+    font-weight:bold;
+    font-size:20px;
+    font-family: 'Times New Roman';
+    border:black 5px solid;
+    outline:solid rgba(32, 152, 2, 0.931) 5px;
+    outline-offset:3px;
+    margin-top:5px;
+}
